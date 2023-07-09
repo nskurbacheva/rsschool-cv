@@ -1,0 +1,16 @@
+<style>
+.bold {
+    font-weight: bold;
+}
+header {
+    text-align: center;
+}
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    width: 60%;
+}
+footer {
+    text-align: center;
+}
+</style>
