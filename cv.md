@@ -32,11 +32,11 @@ Responsible for sales, preparation of tender documents, making orders, communica
 
 **English language:**
 
+**2009-present** – English is used at work through writing e-mails, mainly on goods supply topics and phone communication.
+
 **June 2015** – Certificate in Advanced English, Level C1 by Cambridge English Language Assessment.
 
 **2011-2018** – learned at International House (Advanced level) and Streamline (Upper-intermediate level) courses.
-
-**2009-current** – English is used at work through writing e-mails, mainly on goods supply topics and phone communication.
 
 **2003-2008** – learned at Belarusian state economic university.
 
